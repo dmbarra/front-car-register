@@ -1,6 +1,6 @@
 # front-car-register
 
-[![Build Status](https://travis-ci.org/dmbarra/api-car-register.svg?branch=master)](https://travis-ci.org/dmbarra/api-car-register)
+[![Build Status](https://travis-ci.org/dmbarra/front-car-register.svg?branch=master)](https://travis-ci.org/dmbarra/front-car-register)
 
 > A Vue.js project
 
