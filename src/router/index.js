@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Login from '@/components/Login'
 import HelloWorld from '@/components/HelloWorld'
-import Menu from '@/components/Menu'
+import Car from '@/components/car/Car'
 
 Vue.use(Router)
 
@@ -19,9 +19,9 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path: '/menu',
-      name: 'Menu',
-      component: Menu
+      path: '/car',
+      name: 'Car',
+      component: Car
     }
   ]
 })
